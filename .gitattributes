@@ -1,0 +1,11 @@
+# Text file normalization  
+# Project-specific overrides
+
+*.jpg binary
+*.woff2 binary
+**/*.py linguist-detectable
+*.ico binary
+*.htm linguist-vendored
+*.svg text
+public/index.html linguist-vendored
+*.md linguist-documentation
